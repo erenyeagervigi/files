@@ -52,7 +52,7 @@ window.PORTFOLIO_PROJECTS = [
     category: "Event & Social",
     duration: "00:10",
     poster: "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1100&q=85",
-    videoSrc: "https://www.w3schools.com/html/mov_bbb.mp4",
+    videoSrc: "https://res.cloudinary.com/aizznmz3/video/upload/v1794330722/cinematic.mp4",
     sample: true
   },
   {
